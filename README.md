@@ -11,14 +11,11 @@ Este projeto realiza uma análise exploratória do catálogo da Netflix, com foc
 ## 🧰 Ferramentas
 - Python 3
 - Jupyter Notebook
-- pandas, matplotlib, seaborn
+- pandas, matplotlib, seaborn, streamlit
 
 ## 📊 Dataset
 [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
 
-## 📂 Estrutura
+## Streamlit
+Para usar o streamlit copie corretamente use o comando no terminal python -m streamlit run app/netflix_dashboard.py
 
-├── data/ # datasets brutos e tratados
-├── notebooks/ # análises e visualizações
-├── imagens/ # gráficos gerados
-└── README.md
