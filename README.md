@@ -17,7 +17,8 @@ Este projeto realiza uma análise exploratória do catálogo da Netflix, com foc
 [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
 
 ## 📂 Estrutura
+
 ├── data/ # datasets brutos e tratados
 ├── notebooks/ # análises e visualizações
-├── images/ # gráficos gerados
+├── imagens/ # gráficos gerados
 └── README.md
